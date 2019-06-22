@@ -1,0 +1,183 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #D50E0E;
+  text-align: center;
+
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 15px 17px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #FFFFFF;
+}
+
+.trophy_1 {
+  border: solid;
+  border-color: Red;
+  border-radius: 20px;
+  width: 20%;
+  margin-left: 5%;
+  margin-top: 5%;
+  text-align: center;
+}
+
+.trophy_2 {
+  border: solid;
+  border-color: Red;
+  border-radius: 20px;
+  width: 20%;
+  margin-left: 40%;
+  margin-top: -26%;
+  text-align: center;
+}
+
+.trophy_3 {
+  border: solid;
+  border-color: Red;
+  border-radius: 20px;
+  width: 20%;
+  margin-left: 75%;
+  margin-top: -26%;
+  text-align: center;
+}
+
+.trophy_4 {
+  border: solid;
+  border-color: Red;
+  border-radius: 20px;
+  width: 20%;
+  margin-left: 5%;
+  margin-top: 5%;
+  text-align: center;
+}
+
+.trophy_5 {
+  border: solid;
+  border-color: Red;
+  border-radius: 20px;
+  width: 20%;
+  margin-left: 40%;
+  margin-top: -25.6%;
+  text-align: center;
+}
+
+.trophy_6 {
+  border: solid;
+  border-color: Red;
+  border-radius: 20px;
+  width: 20%;
+  margin-left: 75%;
+  margin-top: -25.6%;
+  text-align: center;
+}
+
+.trophy_7 {
+  border: solid;
+  border-color: Red;
+  border-radius: 20px;
+  width: 90.5%;
+  margin-left: 5%;
+  margin-top: 5%;
+  text-align: center;
+}
+
+.Onana {
+  border: solid;
+  border-color: Red;
+  margin-left: 40%;
+  margin-top: 5%;
+  text-align: center;
+}
+
+.Veltman {
+  border: solid;
+  border-color: Red;
+  margin-left: 3%;
+  margin-top: 5%;
+  text-align: center;
+}
+
+.Blind {
+  border: solid;
+  border-color: Red;
+  margin-left: 5%;
+  margin-top: 5%;
+  text-align: center;
+}
+
+.Ligt {
+  border: solid;
+  border-color: Red;
+  margin-left: 5%;
+  margin-top: 5%;
+  text-align: center;
+}
+
+.Nico {
+  border: solid;
+  border-color: Red;
+  margin-left: 5%;
+  margin-top: 5%;
+  text-align: center;
+}
+
+.Jong {
+  border: solid;
+  border-color: Red;
+  margin-left: 10%;
+  margin-top: 5%;
+  text-align: center;
+}
+
+.Donny {
+  border: solid;
+  border-color: Red;
+  margin-left: 10%;
+  margin-top: 5%;
+  text-align: center;
+}
+
+.Schone {
+  border: solid;
+  border-color: Red;
+  margin-left: 10%;
+  margin-top: 5%;
+  text-align: center;
+}
+
+.Neres {
+  border: solid;
+  border-color: Red;
+  margin-left: 10%;
+  margin-top: 5%;
+  text-align: center;
+}
+
+.Tadic {
+  border: solid;
+  border-color: Red;
+  margin-left: 10%;
+  margin-top: 5%;
+  text-align: center;
+}
+
+.Ziyech {
+  border: solid;
+  border-color: Red;
+  margin-left: 10%;
+  margin-top: 5%;
+  text-align: center;
+}
